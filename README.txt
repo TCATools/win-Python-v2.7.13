@@ -1,3 +1,6 @@
+The source code of this project is available at: https://github.com/python/cpython
+
+
 This is Python version 2.7.13
 =============================
 
